@@ -1,6 +1,0 @@
-Tasks pending:
-
-1. Database consistency.
-2. DB administration parameters.
-3. Answers for the questions unanswered in cics E1.
-4. complete the CICS book.
